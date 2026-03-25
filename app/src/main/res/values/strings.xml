@@ -31,4 +31,7 @@
     <string name="student10_desc">Может объяснить теорию относительности, но не может объяснить, почему в
 холодильнике до сих пор лежит йогурт с прошлого семестра.</string>
     <string name="years_old">%d лет</string>
+    <string name="expand_button_content_description">Развернуть или
+свернуть</string>
+    <string name="about">О студенте</string>
 </resources>
